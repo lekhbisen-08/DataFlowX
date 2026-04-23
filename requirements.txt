@@ -1,3 +1,4 @@
 streamlit
 pandas
-numpy
+azure-storage-blob
+python-dotenv
